@@ -23,7 +23,7 @@ return(
                                 <NavLink activeClassName="menu_active"  exact className="nav-link" to="/">Home <span class="sr-only">(current)</span></NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink activeClassName="menu_active" className="nav-link" to="/sevice">Service</NavLink>
+                                <NavLink activeClassName="menu_active" className="nav-link" to="/service">Service</NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink activeClassName="menu_active" className="nav-link" to="/about">About</NavLink>
