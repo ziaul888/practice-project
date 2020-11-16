@@ -17,7 +17,7 @@ body {
   font-family: 'Mulish', sans-serif;
 }
 .navbar{
-  background-color: #fff !important;
+  background-color: black !important;
 }
 .navbar-brand{
   font-size: 1.9rem !important;
@@ -102,4 +102,7 @@ body {
   100%{
     transform: translateY(-10px);
   }
+}
+#card .card-title{
+  text-transform: capitalize;
 }

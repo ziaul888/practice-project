@@ -8,15 +8,15 @@ import software from "./imgs/f.jpg"
 
 const Sdata =[
     {
-        imgsrc:web,
+        imgsrc:digital,
         title:"web development",
     },
     {
-        imgsrc:app,
+        imgsrc:digital,
         title:"app development",
     },
     {
-        imgsrc:software,
+        imgsrc:digital,
         title:"software development",
     },
     {
@@ -24,11 +24,11 @@ const Sdata =[
         title:"digital marketing",
     },
     {
-        imgsrc:marketing,
+        imgsrc:digital,
         title:"business marketing",
     },
     {
-        imgsrc:android,
+        imgsrc:digital,
         title:"android development",
     }
 ]

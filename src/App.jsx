@@ -7,6 +7,7 @@ import Navber from './Navbar'
 import About from "./About"
 import Service from "./Service"
 import Contact from "./Contact"
+import Footer from './Footer'
 const App =  ()=>{
     return (
         <>
@@ -18,7 +19,7 @@ const App =  ()=>{
                <Route exact path="/contact" component={Contact}/>
                <Redirect to="/"/>
            </Switch> 
-
+          <Footer/>
         </>
     );
 };
