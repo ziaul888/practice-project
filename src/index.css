@@ -16,9 +16,7 @@ body {
   box-sizing: border-box;
   font-family: 'Mulish', sans-serif;
 }
-.navbar{
-  background-color:gray!important;
-}
+
 .navbar-brand{
   font-size: 1.9rem !important;
   color: #565387 !important;
