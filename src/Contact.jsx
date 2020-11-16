@@ -59,7 +59,7 @@ return(
                          name="phone"
                         id="exampleInputPassword1" 
                         onChange={InputEvent}
-                        name="phone"/>
+                        />
                     </div>
                     <div class="form-group">
                         <label for="exampleFormControlTextarea1">msg</label>
